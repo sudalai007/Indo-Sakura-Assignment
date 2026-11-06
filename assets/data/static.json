@@ -1,0 +1,127 @@
+{
+  "user": {
+    "name": "Samyuktha J",
+    "email": "samyu@indosakura.com",
+    "badge": "ARHATIC PRACTITIONER • LEVEL 1",
+    "country": "India",
+    "hoursMeditated": 128,
+    "dayStreak": 45,
+    "sacredTracks": 24,
+    "avatarUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80"
+  },
+  "dailyWisdom": {
+    "title": "DAILY ARHATIC WISDOM",
+    "sutra": "Sutra 108",
+    "quote": "Arhatic Yoga consists of yogic techniques designed to help us develop spiritually. It is prehistoric in origin.",
+    "author": "Master Choa Kok Sui",
+    "actionLabel": "Deep Contemplation"
+  },
+  "featuredAlbum": {
+    "id": "feat_1",
+    "title": "Mantra OM: The Sound of Stillness",
+    "subtitle": "Master Choa Kok Sui",
+    "tag": "Audio • 108 Repetitions • 432 Hz",
+    "description": "Offers a transformative journey through sacred universal resonance and inner stillness.",
+    "duration": "32:45"
+  },
+  "popularMeditations": [
+    {
+      "id": "med_1",
+      "title": "Meditation on Twin Hearts",
+      "subtitle": "Master Choa Kok Sui",
+      "category": "Peace & Illumination",
+      "duration": "21 min"
+    },
+    {
+      "id": "med_2",
+      "title": "शांति एवं प्रकाश के लिए",
+      "subtitle": "Hindi Meditation",
+      "category": "Peace & Illumination",
+      "duration": "24 min"
+    },
+    {
+      "id": "med_3",
+      "title": "Om Namah Shivaya Chanting",
+      "subtitle": "Sacred Resonance",
+      "category": "Universal Peace",
+      "duration": "32 min"
+    },
+    {
+      "id": "med_4",
+      "title": "Meditation on the Soul",
+      "subtitle": "Grand Master Choa Kok Sui",
+      "category": "Chakra Energy",
+      "duration": "45 min"
+    }
+  ],
+  "playlists": [
+    {
+      "id": "pl_1",
+      "code": "TH-01",
+      "title": "Daily Twin Hearts Routine",
+      "meta": "Morning • 42 mins",
+      "subtitle": "Physical Exercises, Meditation & Blessings"
+    },
+    {
+      "id": "pl_2",
+      "code": "AURA",
+      "title": "Evening Aura Cleansing & Cord Cutting",
+      "meta": "Dusk • 5 Tracks • 1h 10m",
+      "subtitle": "108 OM Chants with Tibetan Singing Bowls"
+    },
+    {
+      "id": "pl_3",
+      "code": "YOGA",
+      "title": "Arhatic Dhyan & Kundalini",
+      "meta": "Advanced • 4 Tracks • 55 mins",
+      "subtitle": "Spiritual Cord Affirmation & Blue Pearl Meditation"
+    }
+  ],
+  "recommended": [
+    {
+      "id": "rec_1",
+      "title": "Meditation on Twin Hearts",
+      "subtitle": "Grand Master Choa Kok Sui",
+      "meta": "2 Tracks • 28 Mins • Illumination",
+      "iconType": "heart"
+    },
+    {
+      "id": "rec_2",
+      "title": "Meditation on the Soul",
+      "subtitle": "Achieving Oneness with Higher Soul",
+      "meta": "3 Tracks • 45 Mins • Chakra Energy",
+      "iconType": "soul"
+    },
+    {
+      "id": "rec_3",
+      "title": "Planetary Peace Meditation",
+      "subtitle": "Universal Blessings for Mother Earth",
+      "meta": "1 Track • 21 Mins • World Peace",
+      "iconType": "globe"
+    }
+  ],
+  "recentSessions": [
+    {
+      "id": "rec_sess_1",
+      "title": "Meditation on Twin Hearts",
+      "subtitle": "Master Choa Kok Sui",
+      "timestamp": "Played 21m ago • 24 mins",
+      "colorType": "purple"
+    },
+    {
+      "id": "rec_sess_2",
+      "title": "Om Namah Shivaya Chanting",
+      "subtitle": "Sacred Resonance Mantra",
+      "timestamp": "Yesterday • 18 mins",
+      "colorType": "orange"
+    },
+    {
+      "id": "rec_sess_3",
+      "title": "Aura Cleansing Affirmation",
+      "subtitle": "Chakra Balance Guidance",
+      "timestamp": "3 days ago • 15 mins",
+      "colorType": "cyan"
+    }
+  ],
+  "spiritualQuote": "When you do Meditation on Twin Hearts, divine energy flows into you, blessing the entire earth."
+}
